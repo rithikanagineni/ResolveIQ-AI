@@ -46,3 +46,6 @@ Desktop.ini
 *.db
 
 # Previous or backup project files (review before publishing)
+# Old backup project
+previous/# Old backup project
+previous/
